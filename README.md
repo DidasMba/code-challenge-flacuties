@@ -160,4 +160,4 @@ deliverables!**
       "image": "https://example.com/my-image.gif",
       "votes": 0
     }
-    ```
+``
